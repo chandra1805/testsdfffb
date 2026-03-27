@@ -1,2 +1,4 @@
 sakc nfskcn d
-curl -i -u admin:admin123 http://localhost/api/status/
+curl -i -u admin:admin1233 http://localhost:15672/api/views
+curl -i -u admin:admin1233 http://localhost:15672/api/views
+curl -i -u admin:admin1233 http://localhost:15672/api/views
